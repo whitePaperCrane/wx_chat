@@ -1,7 +1,10 @@
 <!--index.wxml-->
 <view class='container'>
-  <image src="/images/first.png" class='user-avatar'></image>
-  <text class='user-name'><text style='color:red'>hello, </text>white</text>
+  <image src="/images/avatar/3.png" class='user-avatar'></image>
+  <text class='user-name'>
+    <text style='color:red'>hello, </text>
+    <text>\n white</text>
+    </text>
   <view class='moto-container'>
     <text class='moto'>enter to wx_chat</text>
   </view>
